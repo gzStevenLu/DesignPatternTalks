@@ -1,3 +1,5 @@
+package com.stevencat.designpatterntalks.simplefactory;
+
 public class OperationDiv extends Operation {
 
     @Override

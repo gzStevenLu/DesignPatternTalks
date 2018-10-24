@@ -1,3 +1,5 @@
+package com.stevencat.designpatterntalks.simplefactory;
+
 public class OperationFactory {
 
     public static Operation getOperation(String oper) {

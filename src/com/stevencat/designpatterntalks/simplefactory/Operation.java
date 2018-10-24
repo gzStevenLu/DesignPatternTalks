@@ -1,3 +1,5 @@
+package com.stevencat.designpatterntalks.simplefactory;
+
 /**
  * 运算抽象类
  */

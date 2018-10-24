@@ -1,3 +1,5 @@
+package com.stevencat.designpatterntalks.simplefactory;
+
 public class OperationAdd extends Operation {
 
     @Override
